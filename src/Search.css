@@ -1,0 +1,75 @@
+.d2 {
+    margin-top: 70px;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    position: relative;
+    top: 5%;
+    background-color: rgb(8, 8, 8);
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+  .col-3 {
+    padding: 0px;
+    margin: 0px;
+  }
+  .dat1 {
+    margin-top: 30px;
+    padding-left: 10px;
+  }
+  
+  form {
+     
+    width: 155px;
+    background-color: #800651;
+    box-shadow: none;
+    z-index: 1 ;
+
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+    outline: none;
+  
+  }
+  
+  #b1 {
+    float: left;
+    width: 20%;
+    padding: 10px 15px 10px 5px;
+    background: rgb(197, 84, 84);
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+  
+  form #b1:hover {
+    background: #83030a;
+  }
+  #cl2 {
+    border: none;
+    color: #080000;
+   
+    text-align: center;
+    font-size: 14px;
+    display: inline-block;
+    cursor: pointer;
+    background-color: rgb(210, 210, 210);
+    border-top-right-radius:10px;
+    width: 22.4px;
+    height: 47.5px;
+    position: relative;
+    top: -47.4px;
+    left: 151px;
+  }
+  #cl2:hover {
+    background: #88cce0;
+  }
+ 
